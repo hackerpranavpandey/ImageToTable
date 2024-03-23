@@ -10,3 +10,4 @@ Both version in .py and .ipynb is uploaded to run .py you need to install :
 2)pytesseract
 3)cv2
 4)import csv
+Total five images are present and one sample output file output_file.csv is there which is how the data is as input
