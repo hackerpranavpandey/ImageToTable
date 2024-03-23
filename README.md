@@ -5,3 +5,8 @@ In this modified version, the writing part of the code is enhanced. It checks ea
 
 Overall, this code simplifies the process of performing OCR on images and organizing the extracted text into a CSV file, making it easier to manage and analyze textual data from images.
 You can even download the csv file generated
+Both version in .py and .ipnb is uploaded to run .py you need to install :
+1)tesseract-ocr
+2)pytesseract
+3)cv2
+4)import csv
